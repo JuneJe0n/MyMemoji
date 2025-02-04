@@ -24,7 +24,6 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 **2. Download models**<br>
 ➡️ checkpoint for ControlNet : [diffusers_xl_canny_full.safetensors](https://huggingface.co/lllyasviel/sd_control_collection/blob/main/diffusers_xl_canny_full.safetensors)<br>
-
 ➡️ [Download our model checkpoints here](https://drive.google.com/drive/folders/10c-bRDNM-EAHATRaCPTQ3ZGfspJUgASs)<br>
 - checkpoint for finetuned Samaritan SDXL : `./Lora/memoji-07.safetensors`<br>
 - checkpoint for additional ldm : `./Stable-diffusion/samaritan3dCartoon_v40SDXL.safetensors`<br><br>
