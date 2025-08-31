@@ -1,5 +1,5 @@
 # 😀 MY MEMOJI 
-# | Introduction <br>
+## Introduction <br>
 My Memoji is a service that takes a user photo as input and generates a memoji that resembles the user. <br>
 We finetuned SDXL, and improved post-hoc img2img performance using an independent LDM. In addition, we built a custom UI with React. <br>
 📄 [Visit our notion for more detail!](https://sparkly-onion-be7.notion.site/My-Memoji-16f8e2ec5d7a81cea547f92474f83cd0?pvs=4)
@@ -12,7 +12,7 @@ We aimed to solve this problem by developing a system that automatically generat
 ### 👥 Members
 <img src='./assets/members.jpg' width=580><br><br>
 
-# | Installation <br>
+## Installation <br>
 ### SD WebUI
 MyMemoji’s backend UI is built on Automatic1111’s stable-diffusion-webui. Therefore, you need to set up Automatic1111 properly before running MyMemoji WebUI. <br>
 
@@ -80,7 +80,7 @@ npm start
 ```
 <br>
 
-# | How to use MyMemoji WebUI <br>
+## How to use MyMemoji WebUI <br>
 1️⃣ Upload a photo you want to turn into a memoji. <br>
 2️⃣ Select Gender and Face type according to your input image. <br>
 3️⃣ (Optional) Enter your email to receive the generated image directly. <br>
@@ -89,7 +89,7 @@ npm start
 <img src='./assets/webui.jpg' width=800><br><br>
 
     
-# | Model Description
+## Model Description
 <img src='./assets/architecture.jpg' width=800><br>
 
 ### 1. base model : <br>
