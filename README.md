@@ -18,8 +18,6 @@ Memoji is Apple’s service that helps users create personalized cartoon-like av
 However, due to limited customization options, it’s often difficult to make one that actually resembles yourself. <br>
 We aimed to solve this problem by developing a system that automatically generates a memoji resembling you from a single photo.
 
-### 👥 Members
-<img src='./assets/members.jpg' width=580><br><br>
 
 ## Installation <br>
 ### SD WebUI
