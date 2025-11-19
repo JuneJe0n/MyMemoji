@@ -1,5 +1,7 @@
-# 😀 MY MEMOJI 
-## Introduction <br>
+<h1 align="center"> MY MEMOJI </h1>
+
+<h2>Introduction</h2>
+
 My Memoji is a service that takes a user photo as input and generates a memoji that resembles the user. <br>
 We finetuned SDXL, and improved post-hoc img2img performance using an independent LDM. In addition, we built a custom UI with React. <br>
 📄 [Visit our notion for more detail!](https://sparkly-onion-be7.notion.site/My-Memoji-16f8e2ec5d7a81cea547f92474f83cd0?pvs=4)
