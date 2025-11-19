@@ -1,4 +1,11 @@
-<h1 align="center"> MY MEMOJI </h1>
+<div align="center">
+<h1> MY MEMOJI </h1>
+    
+[**Jiyoon Jeon**](https://github.com/JuneJe0n) · [**Dahoon Jeong**](https://huggingface.co/baymin0220) · [**Minju Jang**](https://github.com/alswn-03)
+
+
+</div>
+
 
 <h2>Introduction</h2>
 
